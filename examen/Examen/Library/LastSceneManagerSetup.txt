@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Escenas/MARCE/Marce.unity
+- path: Assets/Escenas/Cris/Cris.unity
   isLoaded: 1
   isActive: 1
