@@ -1,6 +1,10 @@
 sceneSetups:
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Escenas/MARCE/Marce.unity
+=======
+- path: Assets/Escenas/Cris.unity
+>>>>>>> origin/master
 =======
 - path: Assets/Escenas/Adrian.unity
 >>>>>>> origin/master
