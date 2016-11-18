@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Marce/Escenas/Scene1.unity
+- path: Assets/Marce/EscenasM/Inceniracion.unity
   isLoaded: 1
   isActive: 1
