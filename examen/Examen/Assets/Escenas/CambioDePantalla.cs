@@ -9,4 +9,11 @@ public class CambioDePantalla : MonoBehaviour {
 
 
 	}
+	public void Fin (string Nombre) 
+	{
+		Debug.Log ("ya me fui " + Nombre +"adios");
+
+
+
+	}
 }
