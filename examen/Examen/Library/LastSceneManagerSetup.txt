@@ -1,28 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Escenas/Cris/Cris.unity
-=======
-<<<<<<< HEAD
-- path: Assets/Escenas/Jessica.unity
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-- path: "Assets/Escenas/Jose\u0301.unity"
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-- path: Assets/Escenas/MARCE/Marce.unity
-=======
-- path: Assets/Escenas/Cris.unity
->>>>>>> origin/master
-=======
-- path: Assets/Escenas/Adrian.unity
->>>>>>> origin/master
->>>>>>> origin/master
-=======
-- path: Assets/Escenas/MARCE/Marce.unity
->>>>>>> origin/master
->>>>>>> origin/master
->>>>>>> origin/master
+- path: Assets/Escenas/Andrea.unity
   isLoaded: 1
   isActive: 1
