@@ -14,7 +14,7 @@ public class girar : MonoBehaviour {
 	void Update () {
 
 		if (gameObject.name == "circulo1") {
-			transform.Rotate (Vector3.down * Time.deltaTime * 5.0f);
+			transform.Rotate (Vector3.down * Time.deltaTime * 30.0f);
 		}
 
 		if (gameObject.name == "circulo2") {
@@ -23,6 +23,10 @@ public class girar : MonoBehaviour {
 
 		if (gameObject.name == "circulo3") {
 			transform.Rotate (Vector3.down * Time.deltaTime * 50.0f);
+		}
+
+		if (gameObject.name == "circulo4") {
+			transform.Rotate (Vector3.down * Time.deltaTime * 5.0f);
 		}
 	}
 }
