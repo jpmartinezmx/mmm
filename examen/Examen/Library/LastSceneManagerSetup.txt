@@ -1,5 +1,11 @@
 sceneSetups:
 <<<<<<< HEAD
+- path: Assets/Escenas/Cris/Cris.unity
+=======
+<<<<<<< HEAD
+- path: Assets/Escenas/Jessica.unity
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 - path: "Assets/Escenas/Jose\u0301.unity"
 =======
@@ -15,6 +21,8 @@ sceneSetups:
 >>>>>>> origin/master
 =======
 - path: Assets/Escenas/MARCE/Marce.unity
+>>>>>>> origin/master
+>>>>>>> origin/master
 >>>>>>> origin/master
   isLoaded: 1
   isActive: 1
