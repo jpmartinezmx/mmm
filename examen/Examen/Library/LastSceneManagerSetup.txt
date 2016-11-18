@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Escenas/MARCE/Marce.unity
+=======
+- path: Assets/Escenas/Adrian.unity
+>>>>>>> origin/master
   isLoaded: 1
   isActive: 1
