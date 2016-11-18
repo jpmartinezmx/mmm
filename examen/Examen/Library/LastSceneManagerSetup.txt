@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Escenas/Adrian.unity
+  isLoaded: 1
+  isActive: 1
