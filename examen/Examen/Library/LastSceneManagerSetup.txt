@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: "Assets/Escenas/Jose\u0301.unity"
+=======
+- path: Assets/Escenas/Andrea.unity
+>>>>>>> origin/master
   isLoaded: 1
   isActive: 1
