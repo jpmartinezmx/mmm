@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Marce/EscenasM/Inceniracion.unity
+- path: Assets/Marce/EscenasM/Eolico.unity
   isLoaded: 1
   isActive: 1

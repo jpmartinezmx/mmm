@@ -28,5 +28,19 @@ public class girar : MonoBehaviour {
 		if (gameObject.name == "circulo4") {
 			transform.Rotate (Vector3.down * Time.deltaTime * 5.0f);
 		}
+
+		if (gameObject.name == "circulo5") {
+			transform.Rotate (Vector3.up * Time.deltaTime * 10.0f);
+		}
+
+		if (gameObject.name == "circulo6") {
+			transform.Rotate (Vector3.down * Time.deltaTime * 50.0f);
+		}
+
+		if (gameObject.name == "circulo7") {
+			transform.Rotate (Vector3.up * Time.deltaTime * 100.0f);
+		}
 	}
+
+
 }
